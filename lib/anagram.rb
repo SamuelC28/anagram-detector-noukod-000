@@ -13,6 +13,6 @@ class Anagram
         my_array << anagram
       end
     end
-    arr
+    my_array
   end
 end
