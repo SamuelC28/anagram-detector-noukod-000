@@ -10,8 +10,8 @@ class Anagram
     arr = []
     array.each do |anagram_word|
       anagram_word.split("").sort == @word.split("").sort?  arr << anagram : ""
-      
-      end
+
+      # end
     end
     arr
   end
